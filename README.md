@@ -1,6 +1,6 @@
 <p align="center"><a href="http://t.me/Aman_vstreamingbot"><img src="https://github.com/amanrajput2001/Amanmusic/blob/main/etc/aman.png"></a></p>
 <p align="center">
-    <br><b>Veez Music is a telegram bot project that's allow you to play music on telegram voice chat group</b><br>
+    <br><b>Aman music bot is a telegram bot project that's allow you to play music on telegram voice chat group</b><br>
 </p>
 
 
@@ -89,7 +89,7 @@ sudo apt install python3-pip ffmpeg -y
 sudo curl -sL https://deb.nodesource.com/setup_17.x | sudo bash -
 sudo apt-get install -y nodejs
 sudo npm i -g npm
-git clone https://github.com/levina-lab/VeezMusic # clone the repo.
+git clone https://github.com/amanrajput2001/Amanmusic # clone the repo.
 cd VeezMusic
 sudo pip3 install --upgrade pip
 sudo pip3 install -U -r requirements.txt
